@@ -1,0 +1,23 @@
+{
+  "name": "learning_vercel",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@ai-sdk/anthropic": "^2.0.6",
+    "@ai-sdk/openai": "^2.0.20",
+    "ai": "^5.0.23",
+    "dotenv": "^17.2.1",
+    "vercel": "^46.0.2"
+  }
+}
