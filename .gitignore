@@ -1,6 +1,9 @@
 # Node modules
 node_modules/
-
+chat-be/node_modules/
+chat-be/.env
+chat-fe/node_modules/
+chat-fe/.env
 # TypeScript build output
 dist/
 build/
